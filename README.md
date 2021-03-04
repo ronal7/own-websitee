@@ -7,4 +7,5 @@ The sun is a big ball of gas and plasma. Most of the gas — 91 percent — is h
 How bright is the sun?
 From Earth the Sun looks very bright
 ![image](https://user-images.githubusercontent.com/80048374/109972958-bde71c80-7cef-11eb-9a74-37a1da7a9147.png)ddf 
-ddd
+
+
